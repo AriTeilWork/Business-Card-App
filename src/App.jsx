@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import BusinessCard from './components/BusinessCard.jsx';
 
+
 function App() {
   return (
     <section>
